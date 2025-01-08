@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@tanstack/react-query": "^5.62.16",
-    "@tanstack/react-query-devtools": "^5.62.15",
+    "@tanstack/react-query-devtools": "^5.62.16",
     "clsx": "^2.1.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
